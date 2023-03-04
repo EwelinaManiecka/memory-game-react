@@ -5,14 +5,14 @@ import "./App.css";
 
 const cardImages = [
   { src: "./img/Herb-Debicy.png", matched: false },
-  { src: "./img/Herb-jawora.png", matched: false },
+  { src: "./img/herb-jawora.png", matched: false },
   { src: "./img/Herb-Krakowa.png", matched: false },
   { src: "./img/Herb-Niepolomic.jpg", matched: false },
   { src: "./img/Herb-Radzymina.png", matched: false },
   { src: "./img/Herb-Siedlec.png", matched: false },
   { src: "./img/Herb-Skaryszewa.png", matched: false },
   { src: "./img/Herb-Starego-Sacza.png", matched: false },
-  { src: "./img/Herb-trzebnicy.png", matched: false },
+  { src: "./img/herb-trzebnicy.png", matched: false },
   { src: "./img/Herb-Wolbromia.png", matched: false },
 ];
 
